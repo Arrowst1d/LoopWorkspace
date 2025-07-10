@@ -284,7 +284,6 @@ jobs:
           # Several patches may be added per submodule.
           # Adding comments (#) may be useful to easily tell the individual patches apart.
           
-          2hlollipop \
           meal_days \
           negative_insulin \
           basal_lock
